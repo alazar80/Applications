@@ -22,3 +22,9 @@
 ---
 [⬇️ Download the Pitch Snap EXE](https://github.com/alazar80/Applications/blob/main/pitchsnap.apk?raw=1)
 ---
+
+## About
+Collection of apps and tools. Screens adapt across phone, tablet, and other devices.
+
+## Screen Adaptation
+All app screens use responsive layouts for multiple device sizes and orientations. About page follows standard contact/support pattern.
